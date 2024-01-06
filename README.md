@@ -3,7 +3,7 @@
 </p>
  <p align="center">  
   <a href="">
-    <img alt="QUEEN THARU-MD" width="600" height="350" src="https://telegra.ph/file/afa18fd398c209fea95ef.jpg/iI086tX.jpeg">
+    <img alt="QUEEN THARU-MD" width="500" height="500" src="https://telegra.ph/file/dbd86d3270afbd3982bab.jpg">
   </a>
 </p>
 
