@@ -1,5 +1,8 @@
 <p align="center">  
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Glitch&size=30&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=435&lines=I+am+Queen+Tharu-md;Multi+Device+Whatsapp+Bot;Developed+by+Kanishka_x" alt="Typing SVG" /></a>
+<a<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Glitch&size=50&pause=1000&color=F70000&center=true&vCenter=true&random=false&width=475&height=80&lines=QUEEN+THARU-MD" alt="Typing SVG" /></a>
+</p>
+<p align="center">  
+<a<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Glitch&size=50&pause=1000&color=F70000&center=true&vCenter=true&random=false&width=475&height=80&lines=QUEEN+THARU-MD" alt="Typing SVG" /></a> href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Glitch&size=30&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=435&lines=Multi+Device+Whatsapp+Bot;Developed+by+Kanishka_x" alt="Typing SVG" /></a>
 </p>
  <p align="center">  
   <a href="">
