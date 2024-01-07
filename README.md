@@ -67,7 +67,7 @@
       https://heroku.com/deploy?template=
 
 
-<b><details><summary>𝗬𝗼𝘂 𝗱𝗼𝗻'𝘁 𝗵𝗮𝘃𝗲 𝗺𝗼𝗻𝗴𝗼𝗱𝗯 𝘂𝗿𝗹 𝘂𝘀𝗲 𝗽𝘂𝗯𝗹𝗶𝗰 𝘂𝗿𝗹</summary><br>
+<b><summary>𝗬𝗼𝘂 𝗱𝗼𝗻'𝘁 𝗵𝗮𝘃𝗲 𝗺𝗼𝗻𝗴𝗼𝗱𝗯 𝘂𝗿𝗹 𝘂𝘀𝗲 𝗽𝘂𝗯𝗹𝗶𝗰 𝘂𝗿𝗹</summary><br>
 
  1)     mongodb+srv://connect:connect@cluster0.jadwggo.mongodb.net/?retryWrites=true&w=majority
  
