@@ -16,10 +16,10 @@
 <p/>
 
 <p align="center">
-<a href="https://github.com/owlai01?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/owlai01?label=Followers&style=social"></a>
-<a href="https://github.com/owlai01/Owl-Ai/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/owlai01/Owl-Ai?&style=social"></a>
-<a href="https://github.com/owlai01/Owl-Ai/network/members"><img title="Fork" src="https://img.shields.io/github/forks/owlai01/Owl-Ai?style=social"></a>
-<a href="https://github.com/owlai01/Owl-Ai/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/owlai01/Owl-Ai?label=Watching&style=social"></a>
+<a href="https://github.com/kanishkadesilva?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/owlai01?label=Followers&style=social"></a>
+<a href="https://github.com/kanishkadesilva/QUEEN-THARU-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/kanishkadesilva/QUEEN-THARU-MD?&style=social"></a>
+<a href="https://github.com/kanishkadesilva/QUEEN-THARU-MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/kanishkadesilva/QUEEN-THARU-MD?style=social"></a>
+<a href="https://github.com/kanishkadesilva/QUEEN-THARU-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/kanishkadesilva/QUEEN-THARU-MD?label=Watching&style=social"></a>
 </p>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
