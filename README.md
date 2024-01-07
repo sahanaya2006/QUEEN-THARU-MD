@@ -11,9 +11,8 @@
 
 
 <p align="center">
-<a href="https://github.com/kanishkadesilva/Queen-Tharu/fork"><img title="Fork" src="https://img.shields.io/badge/ꜰᴏʀᴋ ɴᴏᴡ-black?style=for-the-badge&logo=github"></a>
  <a href="https://chat.whatsapp.com/CGAARZtBFOS596m9sPU4ir"><img title="Support Group" src="https://img.shields.io/badge/ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ-black?style=for-the-badge&logo=whatsapp"></a>
-<a href="https://bit.ly/queen-tharu-official"><img title="website" src="https://img.shields.io/badge/ᴏꜰꜰɪᴄɪᴀʟ ᴡᴇʙꜱɪᴛᴇ-black?style=for-the-badge&logo=website"></a>
+<a href="https://bit.ly/queen-tharu-official"><img title="website" src="https://img.shields.io/badge/🄾🄵🄵🄸🄲🄸🄰🄻 🅆🄴🄱🅂🄸🅃🄴-black?style=for-the-badge&logo=website"></a>
 <p/>
 
 <p align="center">
@@ -21,9 +20,6 @@
 <a href="https://github.com/owlai01/Owl-Ai/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/owlai01/Owl-Ai?&style=social"></a>
 <a href="https://github.com/owlai01/Owl-Ai/network/members"><img title="Fork" src="https://img.shields.io/github/forks/owlai01/Owl-Ai?style=social"></a>
 <a href="https://github.com/owlai01/Owl-Ai/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/owlai01/Owl-Ai?label=Watching&style=social"></a>
-</p>
- 
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Glitch&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Queen+Tharu" alt="Typing SVG" /></a>
 </p>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
@@ -42,7 +38,7 @@
 
 1.  Fork the repo
     <br>
-<a href="https://github.com/kanishkadesilva/Queen-Tharu/fork"><img title="Fork" src="https://img.shields.io/badge/ꜰᴏʀᴋ Qᴜᴇᴇɴ ᴛʜᴀʀᴜ ʀᴇᴘᴏ-black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/kanishkadesilva/QUEEN-THARU-MD/fork"><img title="Fork" src="https://img.shields.io/badge/ꜰᴏʀᴋ Qᴜᴇᴇɴ ᴛʜᴀʀᴜ ʀᴇᴘᴏ-black?style=for-the-badge&logo=github"></a>
 
 2. Get [SESSION-ID] by linking Pair code. `Whatapp>Three dots>Linked Devices>Link with phone number instead`
     <br>
