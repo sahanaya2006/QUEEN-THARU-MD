@@ -46,7 +46,7 @@
 
 2. Get [SESSION-ID] by linking Pair code. `Whatapp>Three dots>Linked Devices>Link with phone number instead`
     <br>
-<a href="https://replit.com/@vagaabond9/Pairing-Owl-ai?v=1"><img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="70" /></a>
+<a href="https://replit.com/@Kanishkade/QUEEN-THARU-MD"><img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="70" /></a>
 
 ****
 
