@@ -11,16 +11,16 @@
       "value": "KANISHKA DE SILVA"
   },
   "ALIVE_MESSAGE": {
-    "description": " SET YOUR ALIVE MESSAGE FOR THE BOT",
+    "description": " ඔබට දැමීමට අවශ්‍ය Alive මැසෙජ් එක මෙතනට යොදන්න",
      "required" :true
     },
   "AUTO_READ_STATUS": {
-    "description": "Fill the value true if you want bot view your Statuses./ Status auto seen කරන්න ඕනෙනම් true/false දමන්න",
+    "description": "ස්ටෙටස් විඩියෝ ඔටො බලන්න ඔනි නම් true දෙන්න",
     "required" :false,
     "value": "false"
       },
     "HEROKU_API_KEY": {
-    "description": "Put HEROKU API KEY/ හෙරෝකු සෙටිංස් වෙත ගොස් හෙරෝකු Api එක මෙතනට දමන්න",
+    "description": "Put Heroku api key here",
      "required" :true
     },
   "HEROKU_APP_NAME": {
@@ -28,7 +28,7 @@
      "required" :true
     },
    "THUMB_IMAGE": {
-    "description": "Put Your Image Url for bot./ බොට්ට පින්තුරයක් දැමීමට ඔබෙ පින්තුරෙ url එක දමන්න",
+    "description": "Put your bot image link",
      "value": "https://telegra.ph/file/dbd86d3270afbd3982bab.jpg"
     },
     "ANTI_BAD_WORD": {
@@ -36,8 +36,8 @@
      "required" :false
     },
    "ANTILINK_VALUES": {
-    "description": "Put words for antilink/ අනවශ්‍ය ලින්ක් දැමීමෙන වැලකීමට",
-     "value": "chat.whatsapp.com",
+    "description": "Put words for antilink",
+     "value": "chat.whatsapp.com,fb.com",
      "required" :false
      },
    "FAKE_COUNTRY_CODE": {
@@ -56,7 +56,7 @@
      "value": "false"
     },
       "READ_MESSAGE": {
-    "description": "Fill the value true if you want bot to read all messages./ හැම මැසේජ් එකක්ම ඔටෝ සීන් කිරිමට true/false",
+    "description": "එයාලා මැසෙජ් එකක් දාපු ගමන් මැසෙජ් එක සීන් වෙන්න හදන්න true දෙන්න",
      "required" :false,
      "value": "true"
     },
@@ -66,12 +66,12 @@
       "required" :false
     },
       "PREFIX": {
-  "description": "Enter your desired prefix for bot./ බොට්ගෙ කමාන්ඩ්(prefix)",
+  "description": "Enter your desired prefix for bot.",
       "value": "."
   },
   "OWNER_NUMBER": {
-    "description": "The phone numbers of the users who you want to be admin for the bot/ තමන්ගෙ නම්බ එක (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "94Xxxxxxxxxx"
+    "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
+       "value": "94722477361"
   },
    "SESSION_ID": {
     "description": "Please put your Session ID that u scanned from the bot.... If u haven't scanned go to QUEEN THARU-MD Github Repo U can find the Scanner Option"
@@ -82,7 +82,7 @@
        "required" :false
   },
   "MONGODB_URI": {
-    "description": "A secret String for Mongodb Connection.(Required),change for better experience",
+    "description": "A secret String for Mongodb Connection.(Required),change for better experience. you don't have Mongodb url then go to QUEEN THARU-MD github repo and get public url",
     "value": "mongodb://uwrr2obvrb4kbwnrvimy:rbgieh8nfk7EylXCh2D@byg4ii8uzy5rro8bcdfu-mongodb.services.clever-cloud.com:2008/byg4ii8uzy5rro8bcdfu"
   },
     "THEME": {
@@ -90,11 +90,11 @@
      "value": "QUEEN-THARU-MD"
   },
     "WORKTYPE": {
-  "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it./ඔබට විතරක් වැඩ කිරිමට false ලෙස හැමෝටම වැඩ කිරීමට true ලෙස දමන්න",
+  "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
          "value": "public"
   },
       "AUTO_REACTION": {
-    "description": "Reacts emoji to all commands./ හැම මැසෙජ් එකකටම ඔටො රියැක්ශන් එකක් වැටීමට true/false",
+    "description": "Reacts emoji to all commands.",
      "value": "false",
      "required": false 
   },
