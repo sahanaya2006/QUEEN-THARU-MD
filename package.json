@@ -1,7 +1,7 @@
 {
-               "name": "KING-VAJIRA-MD",
-               "version": "1.0.1",
-               "description": "Multi device whatsapp bot by Naveed.",
+               "name": "QUEEN THARU-MD",
+               "version": "1.0.0",
+               "description": "Multi device whatsapp bot",
                "main": "lib/client.js",
                "type": "commonjs",
                "license": "GPL-3.0",
@@ -101,10 +101,10 @@
                     },
                  "repository": {
                  "type": "git",
-                 "url": "git+https://github.com/vajirabot1/KING-VAJIRA-MD.git"
+                 "url": "git+https://github.com/kanishkadesilva/QUEEN-THARU-MD.git"
                   },
                  "bugs": {
-                 "url": "https://github.com/vajirabot1/KING-VAJIRA-MD/issues"
+                 "url": "https://github.com/kanishkadesilva/QUEEN-THARU-MD/issues"
                   },
-                 "homepage": "https://github.com/vajirabot1/KING-VAJIRA-MD#readme"
+                 "homepage": "https://github.com/kanishkadesilva/QUEEN-THARU-MD#readme"
                   }
